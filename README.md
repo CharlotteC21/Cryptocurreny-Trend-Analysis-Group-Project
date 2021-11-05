@@ -18,8 +18,10 @@
 # Resources
 > Weather Data
 >-https://www.worldweatheronline.com/  
+>
 >The Top 5 Largest Mining Operations in the World
 >-https://thebitcoinnews.com/the-top-5-largest-mining-operations-in-the-world/ 
+>
 >Yahoo Finance
 >-https://finance.yahoo.com/quote/NVDA?p=NVDA&.tsrc=fin-srch 
 >
