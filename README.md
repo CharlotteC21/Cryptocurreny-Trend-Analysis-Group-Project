@@ -13,18 +13,18 @@
 >
 
 ## Data Cleanup Process
-> Data Collection
->Kaggle
->Open Weather API
->Yahoo Finance
->NYT API
->US Energy Information Administration
+>Data Collection
+>- Kaggle
+>- Open Weather API
+>- Yahoo Finance
+>- NYT API
+>- US Energy Information Administration
 >
 >Data Cleaning and Scrubbing
->Match datatypes
->Match formats of dates
->Dropna
->Binning
+>- Match datatypes
+>- Match formats of dates
+>- Dropna
+>- Binning
 
 
 ## Implications of our Findings
