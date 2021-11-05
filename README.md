@@ -1,5 +1,6 @@
 # <p align="center">:chart_with_upwards_trend:Bitcoin Trend Analysis Group Project:chart_with_downwards_trend:</p>
 <img width="957" alt="Screen Shot 2021-11-05 at 7 11 47 PM" src="https://user-images.githubusercontent.com/91695375/140589747-5ac6c727-f809-40ed-8d1c-4646c774ab7a.png">
+<p align="center">Collaborators: https://github.com/JK2109; https://github.com/junki-ogawa; https://github.com/Brandiep</p>
 
 ## <p align="center">Core Message/Hypothesis</p>
 > What correlates to Bitcoin price? 
@@ -64,4 +65,3 @@
 >Kaggle 
 >-https://www.kaggle.com/odins0n/top-50-cryptocurrency-historical-prices
 >-https://www.kaggle.com/kaushiksuresh147/bitcoin-tweets
-
