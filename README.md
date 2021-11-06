@@ -7,7 +7,6 @@
 >- Nvidia stock price
 >- Gas Price
 >- Temperatures at and around Bitcoin mining center
->- Google Search Trends
 >
 
 # <p align="center">Background</p>
@@ -47,8 +46,8 @@
 >- Nvidia stock price and Bitcoin price = Strong Correlation at r = .85
 >- Gas Price - 
 >- Temperatures at crypto mining centers: 
->   - Wenatchee, WA data center: There is a Weak Correlation, with r = .42
->   - Reykjavik, Iceland data center: r = -.57
+>   - :us: Wenatchee, WA data center: There is a Weak Correlation, with r = .42
+>   - 🇮🇸 Reykjavik, Iceland data center: r = -.57
 
 # <p align="center">What We Learned</p>
 >- Cleaning data can take much longer and be more involved than expected!
