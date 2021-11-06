@@ -31,6 +31,7 @@
 # <p align="center">NVIDIA Stock Compared to Bitcoin Price</p>
 >- Nvidia stock price and Bitcoin price – strong correlation, r=.85
 <img width="711" alt="Screen Shot 2021-11-05 at 7 45 39 PM" src="https://user-images.githubusercontent.com/91695375/140589867-038cbf60-c74d-49c7-afcf-5d7735629c90.png">
+<img width="872" alt="Screen Shot 2021-11-05 at 8 00 02 PM" src="https://user-images.githubusercontent.com/91695375/140590500-51edf302-92c0-4871-8324-45732c87734a.png">
 
 # <p align="center">Does Bitcoin and Crypto Mining have an impact on the Environment?</p>
 >- We see similar trends when comparing the January temperatures in both locations against the Bitcoin price.
