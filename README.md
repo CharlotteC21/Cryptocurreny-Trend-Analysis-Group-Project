@@ -43,9 +43,9 @@
 <img width="582" alt="Screen Shot 2021-11-05 at 7 58 30 PM" src="https://user-images.githubusercontent.com/91695375/140590417-83e0c4ff-841a-405d-a6bc-45d5cbee5500.png">
 
 # <p align="center">Implications of our Findings</p>
->- Nvidia stock price and Bitcoin price = Strong Correlation at r = .85
->- Gas Price - 
->- Temperatures at crypto mining centers: 
+>- 📈Nvidia stock price and Bitcoin price = Strong Correlation at r = .85
+>- ⛽Gas Price - 
+>- 🌡️Temperatures at crypto mining centers: 
 >   - :us: Wenatchee, WA data center: There is a Weak Correlation, with r = .42
 >   - 🇮🇸 Reykjavik, Iceland data center: r = -.57
 
